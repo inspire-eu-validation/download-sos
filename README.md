@@ -4,8 +4,8 @@ The specification specifies the following conformance classes:
 
 | Conformance class | Standardization target |
 | ----------------- | ---------------------- |
-| [Pre-defined SOS](./sos-pre-defined) | OGC Web Service (SOS 2.0) |
-| [Direct SOS](./sos-direct) | OGC Web Service (SOS 2.0) |
+| [Pre-defined SOS](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined) | OGC Web Service (SOS 2.0) |
+| [Direct SOS](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-direct) | OGC Web Service (SOS 2.0) |
 
 ## Rules for HTTP requests
 

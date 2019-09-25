@@ -42,36 +42,36 @@ Based on requirement numbering in [INS TG SOS](#ref_INS_TG_SOS).
 | 4.1    | Conform to the OGC SOS Conformance Class 'SOS Core'| [OGC SOS](#ref_OGC_SOS) 14.1.1 SOS Core
 | 4.2    | Conform to the OGC SOS Conformance Class 'Spatial Filtering Profile'| [OGC SOS](#ref_OGC_SOS) 14.5.1 SOS Spatial Filtering Profile 
 | 4.3    | Conform to the OGC SOS Conformance Classes 'Core KVP Binding' and 'XML Encoding'| [OGC SOS](#ref_OGC_SOS) 14.6.1 XML Encoding and 14.6.2 KVP Binding Extension
-| 4.4    | Observations Offerings Identifier | [at4-04-observations-offerings-identifier](./at4-04-observations-offerings-identifier.md)
-| 4.5    | Observations Offerings Separated and Retrievable | [at4-05-observations-offerings-separated-retrievable](./at4-05-observations-offerings-separated-retrievable.md)
-| 4.6    | Extended capabilities | [at4-06-extended-capabilities](./at4-06-extended-capabilities.md)
-| 4.7    | Observations Offerings Language Namespace and CRS | [at4-07-observations-offerings-lang-namespace-crs](./at4-07-observations-offerings-lang-namespace-crs.md)
-| 4.8    | CRS Observation | [at4-08-crs-observation](./at4-08-crs-observation.md)
-| 4.9    | Language Capabilities Supported | [at4-09-language-capabilities-supported](./at4-09-language-capabilities-supported.md)
-| 4.10   | Language Capabilities Request | [at4-10-language-capabilities-request](./at4-10-language-capabilities-request.md)
-| 4.11   | Language Capabilities Parameter | [at4-11-language-capabilities-parameter](./at4-11-language-capabilities-parameter.md)
-| 4.12   | Language Capabilities Default | [at4-12-language-capabilities-default](./at4-12-language-capabilities-default.md)
-| 4.13   | Language Capabilities Response | [at4-13-language-capabilities-response](./at4-13-language-capabilities-response.md)
-| 4.14   | Language Capabilities List | [at4-14-language-capabilities-list](./at4-14-language-capabilities-list.md)
-| 4.15   | Extended Capabilities XML Schema | [at4-15-extended-capabilities-xml-schema](./at4-15-extended-capabilities-xml-schema.md)
+| 4.4    | Observations Offerings Identifier | [at4-04-observations-offerings-identifier](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-04-observations-offerings-identifier)
+| 4.5    | Observations Offerings Separated and Retrievable | [at4-05-observations-offerings-separated-retrievable](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-05-observations-offerings-separated-retrievable)
+| 4.6    | Extended capabilities | [at4-06-extended-capabilities](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-06-extended-capabilities)
+| 4.7    | Observations Offerings Language Namespace and CRS | [at4-07-observations-offerings-lang-namespace-crs](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-07-observations-offerings-lang-namespace-crs)
+| 4.8    | CRS Observation | [at4-08-crs-observation](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-08-crs-observation)
+| 4.9    | Language Capabilities Supported | [at4-09-language-capabilities-supported](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-09-language-capabilities-supported)
+| 4.10   | Language Capabilities Request | [at4-10-language-capabilities-request](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-10-language-capabilities-request)
+| 4.11   | Language Capabilities Parameter | [at4-11-language-capabilities-parameter](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-11-language-capabilities-parameter)
+| 4.12   | Language Capabilities Default | [at4-12-language-capabilities-default](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-12-language-capabilities-default)
+| 4.13   | Language Capabilities Response | [at4-13-language-capabilities-response](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-13-language-capabilities-response)
+| 4.14   | Language Capabilities List | [at4-14-language-capabilities-list](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-14-language-capabilities-list)
+| 4.15   | Extended Capabilities XML Schema | [at4-15-extended-capabilities-xml-schema](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-15-extended-capabilities-xml-schema)
 
 ## Tests
 The Conformance class "Pre-defined SOS: Implement Pre-defined Dataset Download Service (“Part A”) using Sensor Observation Service and ISO 19143 Filter Encoding" contains the following tests:
 
 | Identifier                                                        | Type   | Status   |
 | ----------------------------------------------------------------- | -------- | -------- |
-| [at4-04-observations-offerings-identifier](./at4-04-observations-offerings-identifier.md) | Automated | ready for review |
-| [at4-05-observations-offerings-separated-retrievable](./at4-05-observations-offerings-separated-retrievable.md) | Automated | ready for review |
-| [at4-06-sos-pre-defined/extended-capabilities](./at4-06-extended-capabilities.md) | Automated | ready for review |
-| [at4-07-observations-offerings-lang-namespace-crs](./at4-07-observations-offerings-lang-namespace-crs.md) | Automated | ready for review |
-| [at4-08-crs-observation](./at4-08-crs-observation.md) | Automated | ready for review |
-| [at4-09-language-capabilities-supported](./at4-09-language-capabilities-supported.md) | None | ready for review |
-| [at4-10-language-capabilities-request](./at4-10-language-capabilities-request.md) | None | ready for review |
-| [at4-11-language-capabilities-parameter](./at4-11-language-capabilities-parameter.md) | Automated | ready for review |
-| [at4-12-language-capabilities-default](./at4-12-language-capabilities-default.md) | Automated | ready for review |
-| [at4-13-language-capabilities-response](./at4-13-language-capabilities-response.md) | Automated | ready for review |
-| [at4-14-language-capabilities-list](./at4-14-language-capabilities-list.md) | Automated | ready for review |
-| [at4-15-extended-capabilities-xml-schema](./at4-15-extended-capabilities-xml-schema.md) | Automated | ready for review |
+| [at4-04-observations-offerings-identifier](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-04-observations-offerings-identifier) | Automated | ready for review |
+| [at4-05-observations-offerings-separated-retrievable](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-05-observations-offerings-separated-retrievable) | Automated | ready for review |
+| [at4-06-sos-pre-defined/extended-capabilities](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-06-extended-capabilities) | Automated | ready for review |
+| [at4-07-observations-offerings-lang-namespace-crs](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-07-observations-offerings-lang-namespace-crs) | Automated | ready for review |
+| [at4-08-crs-observation](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-08-crs-observation) | Automated | ready for review |
+| [at4-09-language-capabilities-supported](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-09-language-capabilities-supported) | None | ready for review |
+| [at4-10-language-capabilities-request](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-10-language-capabilities-request) | None | ready for review |
+| [at4-11-language-capabilities-parameter](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-11-language-capabilities-parameter) | Automated | ready for review |
+| [at4-12-language-capabilities-default](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-12-language-capabilities-default) | Automated | ready for review |
+| [at4-13-language-capabilities-response](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-13-language-capabilities-response) | Automated | ready for review |
+| [at4-14-language-capabilities-list](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-14-language-capabilities-list) | Automated | ready for review |
+| [at4-15-extended-capabilities-xml-schema](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/at4-15-extended-capabilities-xml-schema) | Automated | ready for review |
 
 ## XML namespace prefixes <a name="namespaces"></a>
 

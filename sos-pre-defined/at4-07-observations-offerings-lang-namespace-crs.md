@@ -45,7 +45,7 @@ The multiplicity of [Other CRS](#othercrs) is 0 to n.
 
 ## Contextual XPath references
 
-The namespace prefixes used as described in [README](./README.md#namespaces).
+The namespace prefixes used as described in [README](http://inspire.ec.europa.eu/id/ats/download-sos/1.0/sos-pre-defined/READMEd#namespaces).
 
 | Abbreviation                                               |  XPath expression (relative to /sos:Capabilities/sos:contents/sos:Contents/swes:offering/sos:ObservationOffering) |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------- |
