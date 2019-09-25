@@ -1,6 +1,6 @@
 # Conformance class: Pre-defined SOS (DRAFT)
 
-This conformance class is part of the [Abstract Test Suite for the INSPIRE Download Services Technical Guidance](http://inspire.ec.europa.eu/id/ats/download-sos/master).
+This conformance class is part of the [Abstract Test Suite for the INSPIRE Download Services Technical Guidance](http://inspire.ec.europa.eu/id/ats/download-sos/1.0).
 
 ## Standardization target type
 
